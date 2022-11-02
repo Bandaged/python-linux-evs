@@ -1,0 +1,25 @@
+# git
+.git
+.gitignore
+
+# Docker 
+Dockerfile
+.dockerignore
+docker-compose.yml
+docker-compose.*.yml
+.env
+
+# AWS details
+.aws
+.ebextensions
+buildspec.yml
+appspec.yml
+
+# end to end test files
+e2e
+
+# built files
+dist
+
+# tests
+test
